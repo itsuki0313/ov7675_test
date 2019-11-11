@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Nov 11 10:30:28 2019
+# Process ID: 22356
+# Current directory: C:/Users/ikeno/Documents/VIVADO/OV7675_test/OV7675_test.sim/sim_1/impl/func/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/ikeno/Documents/VIVADO/OV7675_test/OV7675_test.sim/sim_1/impl/func/xsim/xsim.dir/ov7675_simulation_func_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/ikeno/Documents/VIVADO/OV7675_test/OV7675_test.sim/sim_1/impl/func/xsim/webtalk.log
+# Journal file: C:/Users/ikeno/Documents/VIVADO/OV7675_test/OV7675_test.sim/sim_1/impl/func/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/ikeno/Documents/VIVADO/OV7675_test/OV7675_test.sim/sim_1/impl/func/xsim/xsim.dir/ov7675_simulation_func_impl/webtalk/xsim_webtalk.tcl -notrace
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:07 . Memory (MB): peak = 109.398 ; gain = 17.789
+INFO: [Common 17-206] Exiting Webtalk at Mon Nov 11 10:30:34 2019...

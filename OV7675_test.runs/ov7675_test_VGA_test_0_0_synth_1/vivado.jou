@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Oct 26 15:10:29 2019
+# Process ID: 7564
+# Current directory: C:/Users/ikeno/Documents/VIVADO/OV7675_test/OV7675_test.runs/ov7675_test_VGA_test_0_0_synth_1
+# Command line: vivado.exe -log ov7675_test_VGA_test_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ov7675_test_VGA_test_0_0.tcl
+# Log file: C:/Users/ikeno/Documents/VIVADO/OV7675_test/OV7675_test.runs/ov7675_test_VGA_test_0_0_synth_1/ov7675_test_VGA_test_0_0.vds
+# Journal file: C:/Users/ikeno/Documents/VIVADO/OV7675_test/OV7675_test.runs/ov7675_test_VGA_test_0_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source ov7675_test_VGA_test_0_0.tcl -notrace

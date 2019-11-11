@@ -1,0 +1,7 @@
+Running: xsim.dir/ov7675_simulation_time_synth/xsimk.exe -simmode gui -wdb ov7675_simulation_time_synth.wdb -simrunnum 0 -socket 52226
+Design successfully loaded
+Design Loading Memory Usage: 21056 KB (Peak: 21056 KB)
+Design Loading CPU Usage: 124 ms
+Simulation completed
+Simulation Memory Usage: 34744 KB (Peak: 34744 KB)
+Simulation CPU Usage: 299874 ms
